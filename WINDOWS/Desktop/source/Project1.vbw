@@ -1,0 +1,12 @@
+CApplication = 66, 66, 465, 412, C
+CSeverity = 88, 88, 487, 434, C
+CStatus = 110, 110, 509, 456, C
+CBugType = 132, 132, 531, 478, C
+CStaffMember = 154, 154, 553, 500, C
+CBug = 0, 0, 399, 346, C
+frmMain = 0, 0, 399, 346, C, 132, 132, 531, 478, C
+modUtility = 44, 44, 443, 390, C
+modReports = 0, 0, 399, 346, C
+CHTMLWrapper = 176, 176, 709, 624, C
+modMain = 44, 44, 443, 390, C
+frmFindBug = 81, 81, 603, 519, C, 54, 54, 576, 492, C
